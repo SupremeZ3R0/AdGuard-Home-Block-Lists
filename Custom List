@@ -1,3 +1,12 @@
+!
+! Title: Custom Blocklist
+! Description: Experimental blocklist with hostnames to be tested with https://adblock.turtlecute.org/rs
+! Version: 1.0
+! Homepage: https://github.com/SupremeZ3R0/AdGuard-Home-Block-Lists
+! Last modified: 2025-03-03
+!
+
+
 ||afs.googlesyndication.com^
 ||analytics.google.com^
 ||click.googleanalytics.com^
