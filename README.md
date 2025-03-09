@@ -1,4 +1,4 @@
-# AdGuard-Home-Block-Lists
-Custom block list for AdGuard Home.
+# AdGuard-Home-Lists
+Custom blocklist and allowlist for AdGuard Home.
 
-List includes domains to be tested with https://adblock.turtlecute.org/
+List includes certain desired domains and is to be updated with time. 
