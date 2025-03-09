@@ -1,3 +1,12 @@
+!
+! Title: Custom Blocklist
+! Description: Experimental blocklist with hostnames
+! Version: 1.0
+! Homepage: https://github.com/SupremeZ3R0/AdGuard-Home-Lists
+! Last modified: 2025-03-08
+!
+
+
 afs.googlesyndication.com^
 analytics.google.com^
 click.googleanalytics.com^
