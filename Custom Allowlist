@@ -1,0 +1,20 @@
+!
+! Title: Custom Allowlist
+! Description: Experimental allowlist with desired hostnames 
+! Version: 1.0
+! Homepage: https://github.com/SupremeZ3R0/AdGuard-Home-Lists
+! Last modified: 2025-03-08
+!
+
+
+@@||smetrics.aem.playstation.com^$important
+@@||telemetry-web.api.playstation.com^$important
+@@||playstation.com^$important
+@@||sony.com^$important
+@@||playstation.net^$important
+@@||steam.com^$important
+@@||xbox.com^$important
+@@||battle.net^$important
+@@||macys.com^$important
+@@||brightspace.cuny.edu^$important
+@@||cuny.edu^$important
